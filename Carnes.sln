@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SvrDatosNet", "SvrDatosNet\SvrDatosNet.vbproj", "{DB0ED2DD-726E-4F25-8C37-BE3A24015A65}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Carnes", "VENTAS2016\Carnes.vbproj", "{D44516C2-8644-4A4D-994A-BB909AC58DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0ED2DD-726E-4F25-8C37-BE3A24015A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0ED2DD-726E-4F25-8C37-BE3A24015A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0ED2DD-726E-4F25-8C37-BE3A24015A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0ED2DD-726E-4F25-8C37-BE3A24015A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44516C2-8644-4A4D-994A-BB909AC58DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44516C2-8644-4A4D-994A-BB909AC58DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44516C2-8644-4A4D-994A-BB909AC58DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44516C2-8644-4A4D-994A-BB909AC58DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE3B0A4B-1455-4CC3-B0EB-205350663AB3}
+	EndGlobalSection
+EndGlobal

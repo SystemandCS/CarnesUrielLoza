@@ -1,0 +1,59 @@
+El Proyecto esta dividido en 4 partes
+
+1 partes
+modulo de usuarios
+usuarios:
+abm de usuarios
+abm de modulos
+abm de roles
+tabla de categoria
+tabla de tablas 
+tabla proveedores
+tabla clientes
+tabla localidades 
+Entrega fin de abril $30.000
+
+2 Etapa:
+Administracion Stock 
+Ingreso stock
+Ingreso Faenas
+Entrega fin de Mayo $150.000
+
+3. liquidacion a productores
+Fin de Junio
+reportes             $200.000
+
+4. Caja
+abm cuentas
+reportes             $320.000
+Fin Agosto
+
+Total a Percibir  15.000   abril
+                  75.000   mayo
+                 100.000   junio
+                 160.000   julio
+   total        *350.000*
+
+
+
+usuario: estesor2000@gmail.com
+clave:
+
+
+
+
+$ cd E:\_SistemaCarnes
+$ git clone https://github.com/ESTESOR2019/Carnes.git
+$ cd basicoding
+$ git status
+$ git add "prueba.txt"
+$ git commit -m "Enviando el archivo de prueba"
+$ git remote -v
+$ git push origin master
+
+
+
+Usuario:SystemandCS@gmail.com
+Clave:  SystemandCS.2021
+
+
